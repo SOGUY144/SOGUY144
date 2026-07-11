@@ -162,14 +162,6 @@ Interning as a Front-End Developer, building and maintaining web pages and featu
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SOGUY144/SOGUY144/output/trophy.svg" />
-
-</div>
-
 ## 📈 Contribution Activity
 
 <div align="center">
