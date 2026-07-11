@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,12,20,24,30&text=SOGUY&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20•%20Full%20Stack%20Developer&descAlignY=60"/>
@@ -115,7 +115,7 @@ Currently focusing on building intelligent systems that solve real-world problem
 
 # 🎯 Current Focus
 
-```yaml
+
 learning:
   - Artificial Intelligence
   - Machine Learning
@@ -139,7 +139,7 @@ open_to:
 
 ---
 ````
-```markdown
+
 # 📂 Featured Projects
 
 <details open>
