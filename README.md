@@ -166,7 +166,7 @@ Interning as a Front-End Developer, building and maintaining web pages and featu
 
 <div align="center">
 
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=SOGUY144&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://raw.githubusercontent.com/SOGUY144/SOGUY144/output/trophy.svg" />
 
 </div>
 
