@@ -156,7 +156,7 @@ Interning as a Front-End Developer, building and maintaining web pages and featu
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=SOGUY144&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SOGUY144&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=SOGUY144&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOGUY144&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" width="49%"/>
 
@@ -166,7 +166,7 @@ Interning as a Front-End Developer, building and maintaining web pages and featu
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SOGUY144&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=SOGUY144&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
 
 </div>
 
