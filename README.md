@@ -27,22 +27,22 @@
 
 <br/>
 
-## 📌 About Me
+##  About Me
 
 <img align="right" width="40%" src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/main/images/borderless.svg">
 
 I'm a **Front-End Developer** currently interning at **The Coming of Stages**, where I build interfaces and features end-to-end with **Next.js** and **Tailwind CSS**, and work closely with backend teams to ship real, production-facing products.
 
-- 🚀 I pick things up fast and I'm always looking for the next thing to build or learn — staying still isn't really my style.
-- 💼 Beyond code, I'm genuinely interested in **business** — I compete in as many competitions and hackathons as I can, not just for the win, but for the experience, the connections, and the chance to be around people sharper than me.
-- 🛠️ I care about the full picture: clean UI, solid state/API handling, and a product that actually works for the people using it.
-- 🌱 Currently exploring ways to combine technical execution with a business/product mindset.
+-  I pick things up fast and I'm always looking for the next thing to build or learn — staying still isn't really my style.
+-  Beyond code, I'm genuinely interested in **business** — I compete in as many competitions and hackathons as I can, not just for the win, but for the experience, the connections, and the chance to be around people sharper than me.
+-  I care about the full picture: clean UI, solid state/API handling, and a product that actually works for the people using it.
+-  Currently exploring ways to combine technical execution with a business/product mindset.
 
 **Open To:** Internships & junior roles · Hackathons & competitions · Collaborating on real-world products
 
 <br clear="right"/>
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -74,10 +74,10 @@ I'm a **Front-End Developer** currently interning at **The Coming of Stages**, w
 
 <br/>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <details>
-<summary><b>💳 SlipSense — AI-Powered Financial Health Analyzer for Small Shops</b></summary>
+<summary><b> SlipSense — AI-Powered Financial Health Analyzer for Small Shops</b></summary>
 <br/>
 
 An AI-driven tool that lets small merchants photograph a payment slip and instantly get an analysis of their shop's financial health, turning manual bookkeeping into a few seconds of work.
@@ -96,7 +96,7 @@ Built as an end-to-end product — from OTP login and protected app routes, to a
 </details>
 
 <details>
-<summary><b>🎓 TCOS Enrollment Website — Activity Enrollment Platform</b></summary>
+<summary><b> TCOS Enrollment Website — Activity Enrollment Platform</b></summary>
 <br/>
 
 The enrollment website used by **The Coming of Stages** to manage sign-ups for the organization's activities and events.
@@ -115,7 +115,7 @@ My hands-on internship project — building UI for enrollment flows, connecting 
 </details>
 
 <details>
-<summary><b>🏢 ระบบจัดการองค์กร — Organization Management System</b></summary>
+<summary><b> ระบบจัดการองค์กร — Organization Management System</b></summary>
 <br/>
 
 A full organization management system for handling members, departments, task tracking, and issue/feedback reporting.
@@ -135,7 +135,7 @@ A self-built project covering the full loop of a management tool — member/depa
 
 <br/>
 
-## 💼 Experience
+##  Experience
 
 **Front-End Developer** · *The Coming of Stages*
 `Present`
@@ -151,7 +151,7 @@ Interning as a Front-End Developer, building and maintaining web pages and featu
 
 <br/>
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -162,7 +162,7 @@ Interning as a Front-End Developer, building and maintaining web pages and featu
 
 </div>
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
 
@@ -170,7 +170,7 @@ Interning as a Front-End Developer, building and maintaining web pages and featu
 
 </div>
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
 
@@ -180,7 +180,7 @@ Interning as a Front-End Developer, building and maintaining web pages and featu
 
 <br/>
 
-## 🎯 Current Focus
+##  Current Focus
 
 ```yaml
 Learning:
@@ -203,7 +203,7 @@ Open To:
 
 <br/>
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
