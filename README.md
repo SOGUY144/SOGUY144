@@ -1,27 +1,38 @@
+
+---
+
+### ⚡ สไตล์ที่ 2: "Builder / Hackathon Energy" (เท่แบบสายลุย ชอบชิปของจริง)
+*โชว์พลังความเป็นเด็กชอบแข่ง Hackathon, กล้าลอง, บิลด์ของจริง เหมาะกับภาพลักษณ์ SOGUY144*
+
+```markdown
 ### About Me
 
-Front-end developer focused on building clean, snappy web apps with **Next.js** and **Tailwind CSS**. Currently interning at **The Coming of Stages**, working on production features and integrating full-stack flows.
+Hey, I'm **Fahat**. I build web products that people actually use. 
 
--  **Engineering:** I bridge clean UI with solid data handling (REST, Supabase, Drizzle).
--  **Product & Business:** I don't just write code; I care about whether the product solves a real problem.
--  **Hackathons:** Active competitor. I use hackathons to build fast under pressure and learn from people better than me.
+Currently a Front-End Intern at **The Coming of Stages**, turning designs and business ideas into working code with **Next.js** and **Tailwind CSS**.
+
+- **What I do:** Ship fast, keep UI clean, and make sure the frontend talks cleanly to the backend.
+- **Why hackathons?** Because building working software in 48 hours is the fastest way to get sharp and test ideas.
+- **Goal:** Becoming a full-stack engineer who understands business just as well as code.
 
 ---
 
 ### Experience
 
-#### **Front-End Developer (Intern)** · *The Coming of Stages* `Present`
-Shipping user-facing features and maintaining internal tools alongside backend engineers.
+#### **Front-End Developer Intern** · *The Coming of Stages* `Present`
+Building and maintaining web interfaces for real users.
 
-- Built dynamic web pages using **Next.js** and **Tailwind CSS**, focusing on speed and layout responsiveness.
-- Connected and managed **REST APIs** with clean loading and error states for reliable UX.
-- Worked directly with project teams to turn loose ideas into shipped, working features.
+- Developed and maintained responsive interfaces with **Next.js** and **Tailwind CSS**.
+- Handled state management and consumed **REST APIs** to ensure smooth data flows.
+- Collaborated across teams to debug, refine, and deliver features on schedule.
 
 ---
 
-### Current Focus
+### In Progress
 
-```bash
-building  : SlipSense (AI finance tool for small shops) & TCOS platform
-learning  : Full-stack patterns with Supabase & Drizzle ORM
-exploring : Hackathon ideas & applied AI in everyday products
+- 🔨 **Building:** `SlipSense` — lightweight financial analysis for small merchants.
+- 📚 **Studying:** Backend architecture with PostgreSQL, Supabase, and Drizzle.
+- 🤝 **Open for:** Junior / Intern roles, hackathon teams, and building cool projects.
+
+> *"Talk is cheap. Show me the code."* — Linus Torvalds
+*(หรือใช้: "Ship early. Learn fast. Build the next thing.")*
