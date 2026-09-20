@@ -1,38 +1,43 @@
+<div align="center">
+
+# SOGUY144
+### Front-End Developer · Product-Minded Engineer
+
+<!-- ⌨️ ลูกเล่นที่ 1: ตัวหนังสือพิมพ์สดแบบ Terminal (เข้ากับธีมสีม่วง) -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=520&lines=Building+products+people+actually+use.;Next.js+%2B+Tailwind+CSS+%2B+Full-Stack;Turning+complex+ideas+into+clean+software.;Active+Hackathon+Challenger+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- 🏷️ ลูกเล่นที่ 2: Badges สถานะแบบมินิมอล -->
+[![Location](https://img.shields.io/badge/Location-Thailand-18181b?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/SOGUY144)
+[![Status](https://img.shields.io/badge/Status-Intern%20%40%20TCOS-6b21a8?style=flat-square)](https://github.com/SOGUY144)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-7c3aed?style=flat-square&logo=safari&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-ea580c?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+</div>
 
 ---
 
-### ⚡ สไตล์ที่ 2: "Builder / Hackathon Energy" (เท่แบบสายลุย ชอบชิปของจริง)
-*โชว์พลังความเป็นเด็กชอบแข่ง Hackathon, กล้าลอง, บิลด์ของจริง เหมาะกับภาพลักษณ์ SOGUY144*
+### ⚡ About Me
 
-```markdown
-### About Me
+Front-end developer focused on building clean, snappy web apps with **Next.js** and **Tailwind CSS**. Currently interning at **The Coming of Stages**, shipping production features and bridging UI with full-stack logic.
 
-Hey, I'm **Fahat**. I build web products that people actually use. 
-
-Currently a Front-End Intern at **The Coming of Stages**, turning designs and business ideas into working code with **Next.js** and **Tailwind CSS**.
-
-- **What I do:** Ship fast, keep UI clean, and make sure the frontend talks cleanly to the backend.
-- **Why hackathons?** Because building working software in 48 hours is the fastest way to get sharp and test ideas.
-- **Goal:** Becoming a full-stack engineer who understands business just as well as code.
+- 🛠️ **Engineering:** Obsessed with clean UI, fluid state handling, and solid API integration.
+- 💡 **Product Mindset:** I build with business impact in mind — code is only as good as the problem it solves.
+- 🏁 **Hackathons:** Active competitor. I use hackathons to build under intense pressure and learn from top builders.
 
 ---
 
-### Experience
+### 💻 System Terminal
 
-#### **Front-End Developer Intern** · *The Coming of Stages* `Present`
-Building and maintaining web interfaces for real users.
+<!-- 📟 ลูกเล่นที่ 3: กล่อง Terminal บอกสถานะการทำงานแบบ Real-time -->
+```bash
+$ soguy --status
 
-- Developed and maintained responsive interfaces with **Next.js** and **Tailwind CSS**.
-- Handled state management and consumed **REST APIs** to ensure smooth data flows.
-- Collaborated across teams to debug, refine, and deliver features on schedule.
-
----
-
-### In Progress
-
-- 🔨 **Building:** `SlipSense` — lightweight financial analysis for small merchants.
-- 📚 **Studying:** Backend architecture with PostgreSQL, Supabase, and Drizzle.
-- 🤝 **Open for:** Junior / Intern roles, hackathon teams, and building cool projects.
-
-> *"Talk is cheap. Show me the code."* — Linus Torvalds
-*(หรือใช้: "Ship early. Learn fast. Build the next thing.")*
+[Profile]     Fahat Trongnasuk (SOGUY144)
+[Role]        Front-End Developer Intern @ The Coming of Stages
+[Stack]       Next.js, TypeScript, Tailwind CSS, Supabase, Drizzle ORM
+[Active Work] SlipSense (AI Financial Health for Small Merchants)
+[Open To]     Junior Roles, Hackathon Teams, Product Collaborations
